@@ -1,0 +1,78 @@
+[submodule "packages/swiper"]
+	path = packages/swiper
+	url = https://github.com/abo-abo/swiper.git
+[submodule "packages/magit"]
+	path = packages/magit
+	url = https://github.com/magit/magit.git
+[submodule "packages/company-mode"]
+	path = packages/company-mode
+	url = https://github.com/company-mode/company-mode.git
+[submodule "packages/projectile"]
+	path = packages/projectile
+	url = https://github.com/bbatsov/projectile.git
+[submodule "packages/org-bullets"]
+	path = packages/org-bullets
+	url = https://github.com/sabof/org-bullets.git
+[submodule "packages/youdao-dictionary.el"]
+	path = packages/youdao-dictionary.el
+	url = https://github.com/xuchunyang/youdao-dictionary.el.git
+[submodule "packages/company-english-helper"]
+	path = packages/company-english-helper
+	url = https://github.com/manateelazycat/company-english-helper.git
+[submodule "packages/lua-mode"]
+	path = packages/lua-mode
+	url = https://github.com/immerrr/lua-mode.git
+[submodule "packages/ayu-theme"]
+	path = packages/ayu-theme
+	url = https://github.com/vutran1710/Ayu-Theme-Emacs.git
+[submodule "packages/dash.el"]
+	path = packages/dash.el
+	url = https://github.com/magnars/dash.el.git
+[submodule "packages/transient"]
+	path = packages/transient
+	url = https://github.com/magit/transient.git
+[submodule "packages/with-editor"]
+	path = packages/with-editor
+	url = https://github.com/magit/with-editor.git
+[submodule "packages/docker-compose-mode"]
+	path = packages/docker-compose-mode
+	url = https://github.com/meqif/docker-compose-mode.git
+[submodule "packages/yaml-mode"]
+	path = packages/yaml-mode
+	url = https://github.com/yoshiki/yaml-mode.git
+[submodule "packages/dockerfile-mode"]
+	path = packages/dockerfile-mode
+	url = https://github.com/spotify/dockerfile-mode.git
+[submodule "packages/chinese-word-at-point"]
+	path = packages/chinese-word-at-point
+	url = https://github.com/xuchunyang/chinese-word-at-point.el.git
+[submodule "packages/popup-el"]
+	path = packages/popup-el
+	url = https://github.com/auto-complete/popup-el.git
+[submodule "packages/pos-tip"]
+	path = packages/pos-tip
+	url = https://github.com/pitkali/pos-tip.git
+[submodule "packages/names"]
+	path = packages/names
+	url = https://github.com/Malabarba/names.git
+[submodule "packages/valign"]
+	path = packages/valign
+	url = https://github.com/casouri/valign.git
+[submodule "packages/yasnippet"]
+	path = packages/yasnippet
+	url = https://github.com/joaotavora/yasnippet.git
+[submodule "packages/yasnippet-snippets"]
+	path = packages/yasnippet-snippets
+	url = https://github.com/AndreaCrotti/yasnippet-snippets.git
+[submodule "packages/undo-tree"]
+	path = packages/undo-tree
+	url = https://gitlab.com/tsc25/undo-tree.git
+[submodule "packages/queue"]
+	path = packages/queue
+	url = https://github.com/emacsmirror/queue.git
+[submodule "packages/emacs-which-key"]
+	path = packages/emacs-which-key
+	url = https://github.com/justbur/emacs-which-key.git
+[submodule "packages/color-theme-sanityinc-tomorrow"]
+	path = packages/color-theme-sanityinc-tomorrow
+	url = https://github.com/purcell/color-theme-sanityinc-tomorrow.git

@@ -1,0 +1,6 @@
+#+TITLE:        ${1:`(buffer-name)`}
+#+DATE:         ${2:`(current-time-string)`}
+#+AUTHOR:       ${3:xueshumeng}
+#+EMAIL:        ${4:xue.shumeng@yahoo.com}
+#+TODO:         ${5:TODO(t)} ${6:| DONE(d)}
+${0:}

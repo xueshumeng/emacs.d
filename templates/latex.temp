@@ -1,0 +1,15 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% File          : `(buffer-name)`
+%%% Author        : xueshumeng<xue.shumeng@yahoo.com>
+%%% HomePage      : www.acodint.top
+%%% Created       : `(current-time-string)`
+%%% LastModified  : `(current-time-string)`
+%%% Description   :
+%%% $1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+$0
+%%% Local Variables:
+%%% mode: ${2:latex}
+%%% coding: ${3:utf-8}
+%%% TeX-master: ${4:t}
+%%% End:
