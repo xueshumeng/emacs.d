@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: math set notin
+# key: notin
+# --
+\not\in

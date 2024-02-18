@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: description
+# key: #d
+# --
+\desc{$0}

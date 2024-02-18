@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="${1:zh}">
+  <head>
+    <meta charset="${2:UTF-8}">
+    <title>${3:Title of the document}</title>
+  </head>
+
+  <body>
+    $0
+  </body>
+</html>

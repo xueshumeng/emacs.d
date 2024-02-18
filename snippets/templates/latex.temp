@@ -1,0 +1,15 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% File          : `(buffer-name)`
+%%% Author        : xueshumeng<xueshumeng@aliyun.com>
+%%% HomePage      : blog.xueshumeng.online
+%%% Created       : `(current-time-string)`
+%%% LastModified  : `(current-time-string)`
+%%% Description   :
+%%% $1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+$0
+%%% Local Variables:
+%%% mode: ${2:latex}
+%%% coding: ${3:utf-8}
+%%% TeX-master: ${4:t}
+%%% End:

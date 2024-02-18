@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: proposition
+# key: ,b
+# --
+#+begin_proposition
+$1
+#+end_proposition
+
+$0

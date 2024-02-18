@@ -1,0 +1,43 @@
+;;; init.el ---                                    -*- lexical-binding: t; -*-
+;;; Commentary:
+;;
+;;; Code:
+
+(add-to-list 'load-path (expand-file-name "lisp" user-emacs-directory))
+(require 'init-package)
+(require 'utils)
+(when-macos (require 'init-macos))
+(when-linux (require 'init-linux))
+(require 'init-defaults)
+(require 'init-evil)
+(require 'init-vertico)
+;; (require 'init-swiper)
+(require 'init-undotree)
+(require 'init-magit)
+(require 'init-switch-window)
+(require 'init-completion)
+(require 'init-vision)
+(require 'init-spellcheck)
+(require 'init-english)
+(require 'init-orgmode)
+(require 'init-lua)
+(require 'init-erlang)
+(require 'init-lisp)
+(require 'init-dockerfile)
+(require 'init-plantuml)
+(require 'init-webmode)
+;; ;; (require 'init-persp)
+(require 'init-elfeed)
+(require 'init-keyfreq)
+(require 'init-yaml)
+(require 'init-term)
+(require 'init-epub)
+(require 'init-whichkey)
+(require 'init-python)
+(require 'init-mermaid)
+(require 'init-javascript)
+(require 'init-network)
+(require 'init-markdown)
+
+(provide 'init)
+;;; init.el ends here

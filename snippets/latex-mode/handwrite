@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: handwrite
+# key: hw
+# --
+{\handwrite $0}

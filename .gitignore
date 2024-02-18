@@ -1,0 +1,12 @@
+auto-save-list
+.cache
+.custom.el
+eln-cache
+elpa
+nov-places
+projects
+tramp
+transient
+bookmarks
+eshell
+packages/*

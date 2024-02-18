@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# Author:   ${1:xueshumeng} ${2:<xue.shumeng@yahoo.com>}
+# Homepage: ${3:blog.xueshumeng.online}
+# Created : ${4:`(current-time-string)`}
+# Description:
+# $5
+# Revision:
+# ${6:`(current-time-string)`} - ${7:short description}
+# ${8:longer description}
+
+version="${9:0.1.0}"
+
+$0

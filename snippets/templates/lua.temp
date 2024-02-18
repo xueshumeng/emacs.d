@@ -1,0 +1,16 @@
+--
+-----------------------------------------------------------------------------
+-- File:     ${1:`(buffer-name)`}
+-- Usage:    lua ${2:`(buffer-name)`}
+-- Description:
+-- ${3:}
+-- Author:   ${4:xueshumeng (xsm), <xue.shumeng@yahoo.com>}
+-- Homepage: ${5}
+-- Version:  ${6:0.1.0}
+-- Created:  ${7:`(current-time-string)`}
+-- Revision:
+-- ${8:`(current-time-string)` - short description}
+-- ${9:longer description}
+-----------------------------------------------------------------------------
+--
+$0

@@ -1,0 +1,5 @@
+#+title:  ${1:`(buffer-name)`}
+#+date:   ${2:`(current-time-string)`}
+#+author: ${3:xueshumeng}
+#+email:  ${4:xue.shumeng@yahoo.com}
+${0:}

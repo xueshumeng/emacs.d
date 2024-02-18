@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: word definition
+# key: def
+# --
+$1 ${2:BrE} ~$3~ $4
+
+$0
